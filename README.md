@@ -1,3 +1,10 @@
+# Resumen
+Proyecto creado con Angular 7, para la gestión de peliculas (insertar, modificar y eliminar) en una base de datos creada con MySQL y php, a traves de conexiones y servicios API REST.
+
+Se ha usado:
+- Sistema de enrutamiento: appRouting
+
+
 # Webapppeliculas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
